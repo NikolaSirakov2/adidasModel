@@ -21,20 +21,21 @@
 }
 
 .logo {
-    width: 70px;
-    padding: 0;
+  width: 70px;
+  padding: 0;
 }
 
-
-#pol {
-    
-    text-align: center;
-    margin: 10px 20px 20px 20px;
-
+.pol {
+  text-align: center;
+  margin: 20px;
 }
 
-#pol li {
-    
+.pol li {
   display: inline;
   padding: 10px;
+}
+
+.search {
+    position: relative;
+    margin-left: 1600px;
 }
