@@ -45,12 +45,12 @@ header {
 }
 
 .search {
-    position: relative;
+    
     margin-left: 1600px;
 }
 
 .green-image {
-    height: 700px;
+    height: 800px;
     background-image: url(../IMG/background\ image.webp);
 }
 
