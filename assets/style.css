@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Adidas";
+  src: url(../fonts/font.ttf);
+}
+
 header {
     position: sticky;
 }
@@ -68,6 +73,25 @@ header {
     font-style: italic;
     font-size: 30px;
     font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    padding: 90px 10px 40px 20px;
+    font-family: ad;
+    padding: 90px 10px 40px 120px;
+}
+
+.offerOne li {
+    
+    display: inline-block;
+    padding: 15px;
+}
+
+.offerOne li img {
+    width: 340px
+}
+
+.offerOne li h4 {
+    padding: 10px 0px;
+    font-weight: bold;
+}
+
+.offerOne li p {
+    opacity: 70%;
 }
