@@ -1,3 +1,8 @@
+body {
+    width: 1920px;
+    height: 1080px;
+}
+
 header {
     position: sticky;
 }
@@ -44,12 +49,12 @@ header {
     margin-left: 1600px;
 }
 
-main {
+.green-image {
     height: 700px;
     background-image: url(../IMG/background\ image.webp);
 }
 
-main h1 {
+.green-image h1 {
     color: aliceblue;
     font-size: 70px;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -57,9 +62,9 @@ main h1 {
     padding: 190px 100px 5px;
 }
 
-main h5 {
+.green-image  h5 {
     color: aliceblue;
     font-size: xx-large;
-    
-    
+    margin: 40px 80px 5px 100px;
+    padding: 10px 100px 5px;
 }
